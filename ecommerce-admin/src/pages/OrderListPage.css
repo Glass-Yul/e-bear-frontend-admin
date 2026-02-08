@@ -1,26 +1,25 @@
 .admin-container {
     display: flex;
-  }
-  
-  .main-container {
+}
+
+.main-container {
     flex: 1;
     display: flex;
     flex-direction: column;
     width: 100%;
-  }
-  
-  .main-section {
+}
+
+.main-section {
     padding-left: 1vw;
     padding-top: 1vw;
     padding-right: 1vw;
     flex: 1;
-  }
+}
 
-  .login-main-container {
-    display: flex;
-    min-width: 100vw;
-  }
+hr {
+    margin: 0 30px 12px 0;
+}
 
-  .login-flex-container {
-    flex: auto;
-  }
+.order-main-section-table {
+    margin-top: 20px;
+}
